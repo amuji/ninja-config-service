@@ -1,0 +1,5 @@
+info:
+  app:
+    name: ${spring.application.name}
+    desc: "This is the Inventory Service of Ninja project."
+    version: "0.0.1"
