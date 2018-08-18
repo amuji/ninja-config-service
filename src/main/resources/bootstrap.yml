@@ -4,8 +4,3 @@ spring:
 
 server:
   port: 60090
-
-eureka:
-  client:
-    service-url:
-      defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
